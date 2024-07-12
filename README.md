@@ -54,7 +54,7 @@ The Food Ordering Chatbot is an intelligent conversational agent designed to str
   
 ![image](https://github.com/amoljain2k/NLP-Chatbot-with-Dialogflow-FastAPI-MySQL-FullStack/blob/main/Chatbot%20SS/chatbot2.PNG)
 
-3. **Order ID Generation and Confirmation**:
+3. **Order Placement, Order ID Generation and Confirmation**:
 - The chatbot guides the user through the order placement process, capturing details such as item names and quantities in a conversational manner.
 - After processing the user's order, the chatbot confirms the details directly in the chat interface, ensuring the user has a clear understanding of their order before finalizing.
 - Upon successful order placement, the chatbot generates a unique order ID and confirms it with the user, enhancing the order tracking capability.
